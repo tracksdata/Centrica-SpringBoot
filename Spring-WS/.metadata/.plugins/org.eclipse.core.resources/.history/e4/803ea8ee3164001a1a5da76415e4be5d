@@ -1,0 +1,13 @@
+package com;
+
+public class Bank {
+
+	public void openAccount() {
+		System.out.println("--- bank class openAccount method rules...");
+	}
+
+	public void info() {
+		System.out.println("-- bank class info method");
+	}
+
+}

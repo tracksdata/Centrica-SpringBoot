@@ -1,0 +1,15 @@
+package com;
+
+public abstract class Bank {
+	
+	public String custName;
+
+	public void openAccount() {
+		System.out.println("--- Bank is tryong to open account for  "+custName);
+	}
+
+	public void info() {
+		System.out.println("-- bank class info method");
+	}
+
+}

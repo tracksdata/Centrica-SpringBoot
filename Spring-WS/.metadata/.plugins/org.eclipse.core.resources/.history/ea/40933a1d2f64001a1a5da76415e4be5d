@@ -1,0 +1,9 @@
+package com;
+
+public class Customer extends Bank {
+	@Override
+	public void openAccount() {
+		System.out.println("--- Customer is ooened Bank Account...");
+	}
+
+}

@@ -1,0 +1,15 @@
+package com;
+
+public class Bank {
+	
+	public String custName;
+
+	public void openAccount() {
+		System.out.println("--- "+custName+" is Opened Bank Account for "+custName);
+	}
+
+	public void info() {
+		System.out.println("-- bank class info method");
+	}
+
+}

@@ -1,0 +1,15 @@
+package com;
+
+public class Test {
+
+	public static void main(String[] args) {
+		
+		// Store sub class object in the super class ref
+		Bank b=new Customer();
+		
+		
+		
+
+	}
+
+}

@@ -1,0 +1,10 @@
+package com;
+
+public class Customer extends Bank {
+	
+
+	public void custInfo() {
+		System.out.println("--- customer class custInfo method");
+	}
+
+}
