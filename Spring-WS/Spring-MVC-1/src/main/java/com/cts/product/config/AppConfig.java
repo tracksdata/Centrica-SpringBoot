@@ -8,6 +8,7 @@ import org.springframework.context.annotation.Configuration;
 public class AppConfig {
 	
 	// Data configuration
+	// AWS Lanbda Configuration 
 	
 	
 	
