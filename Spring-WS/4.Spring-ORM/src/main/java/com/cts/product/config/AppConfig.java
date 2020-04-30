@@ -26,14 +26,7 @@ import com.cts.product.model.Product;
 @EnableTransactionManagement
 public class AppConfig {
 
-	/*
-	 * Notes ------- a. provide db ninformation inside configuration file like
-	 * .properties or yml
-	 * 
-	 * 1. Connection pool info - DB Info - MySQL 2. Transaction Management like JTA
-	 * etc
-	 */
-
+	
 	@Autowired
 	private Environment env;
 
