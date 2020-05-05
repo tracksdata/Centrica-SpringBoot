@@ -1,0 +1,82 @@
+Web services
+----------------------------------------------------------------
+
+1. SOAP Services
+2. REST Services
+
+
+WS Technologies
+------------------
+    XSD
+    SOAP
+    WSDL
+    HTTP
+    UDDI
+
+WS API's & Frameworks
+-----------------------
+    AXIS2 API
+    JAX-RPC API
+    JAX-WS API
+    JAX-RS API
+    Spring with REST API
+    Apache CXF Framework
+
+Messaging styles
+    document
+    rpc
+
+Encoding styles
+    soap encoding
+    literal encoding
+
+WSDL styles
+    document/literal
+    rpc/literal
+
+
+Architecture styles
+    SOAP styles (JAX-WS)
+    REST styles (JAX-RS)
+    
+
+
+
+JAX-RS
+-------
+1) JAX-RS Specification
+    - SUN
+    - .pdf
+    - .description
+
+2) JAX-RS API
+    - SUN
+3) JAX-RS Implementationc (third party vendors)
+    Apache CXF (Apache)
+    Jersey  (Sun)
+    RestEasy (JBosss)
+
+
+
+Rest Services Implementations
+    1. JAX-RS Implementation
+    2. Spring Framework Implementation
+
+
+
+2. Spring Framework Implementation (REST)
+----------------------------------------------------------------
+
+- Roy Fields
+- Rest Constraints - 5
+
+
+
+
+
+HTTP Metgods
+    GET  -  loading
+    POST - posting / saving
+    PUT  - updating 
+    DELETE - deleting date
+
