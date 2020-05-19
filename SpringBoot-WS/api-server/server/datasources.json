@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb-dsn": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://user5:password123@ds131109.mlab.com:31109/cts",
+    "database": "",
+    "password": "",
+    "name": "mongodb-dsn",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
